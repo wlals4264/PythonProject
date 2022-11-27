@@ -13,9 +13,11 @@
                     2의 N 거듭제곱만큼 나눗셈
 '''
 
-a = 3
+a = 6
 b = 5
 print('a & b : {}'.format(a & b))
 print('a | b : {}'.format(a | b))
 print('a ^ b : {}'.format(a ^ b))
 print('~a : {}'.format(~a))
+print('a << 1 : {}'.format(a << 1))
+print('a >> 1 : {}'.format(a >> 1))
